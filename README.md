@@ -1,4 +1,4 @@
-### Proyek Kalkulator Sederhana
+### Tugas Kalkulator Sederhana
 
 Proyek ini adalah sebuah kalkulator sederhana yang dibuat menggunakan HTML, CSS, dan JavaScript. Kalkulator ini memiliki fitur-fitur dasar seperti penambahan, pengurangan, perkalian, dan pembagian. Anda juga dapat menghapus satu karakter pada layar dengan tombol "DE" dan menghapus seluruh isi layar dengan tombol "AC". Hasil perhitungan ditampilkan di layar. Selain itu, proyek ini juga menyertakan mode gelap yang dapat diaktifkan atau dinonaktifkan.
 
